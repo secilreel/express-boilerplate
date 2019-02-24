@@ -6,7 +6,7 @@ This is a boilerplate project used for starting new projects with node!
 
 Complete the following steps to start a new project (NEW-PROJECT-NAME):
 
-1. Clone this repository to your local machine with `git clone BOILERPLATE-URL NEW-PROJECTS-NAME` && cd $_ - &&`cd` into the cloned repository
+1. Clone this repository to your local machine with `git clone BOILERPLATE-URL NEW-PROJECTS-NAME && cd $_` - &&`cd` into the cloned repository
 2. Make a fresh start of the git history for this project with `rm -rf .git && git init`
 3. Install the node dependencies `npm install`
 4. Move the example Environment file to `.env` that will be ignored by git and read by the express server `mv example.env .env`
